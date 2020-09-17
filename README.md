@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/-TensorFlow-e34f26?style=flat-square&logo=TensorFlow&logoColor=fff)
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=blue)
+-------------------------------------------------------------------------------------------------------------------------------------
 ## PS: Depth Estimation of Valles Marineris using ISRO’s Mars Color Camera (MCC) images.
 ### We are Comparing different models for solving the above problem statement
 ### 1. Pix2Pix using Wessesterian Loss :
